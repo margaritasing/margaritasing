@@ -10,9 +10,6 @@
 	<table>
 		<tr>
 			<td>
-				<img src="https://www.gifsanimados.org/data/media/50/flor-imagen-animada-0110.gif">
-			</td>
-			<td>
 				<img src="https://www.gifsanimados.org/datamedia/185/abeja-imagen-animada-0130.gif">
 			</td>
 		
