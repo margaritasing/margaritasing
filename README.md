@@ -8,9 +8,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-   ### Trabajando mi paciencia...
-
-   ### Actualmente estoy aprendiendo BackEnd con Java en Ada Itw
+     ### Actualmente estoy aprendiendo BackEnd con Java en Ada Itw
    
    
 
