@@ -9,13 +9,11 @@
 
  </head>
 <body>
-    
+  
+     
+[![Libia's github activity graph]( https://graficoactividad.herokuapp.com/graph?username=margaritasing&theme=dracula)](https://github.com/margaritasing/github-readme-activity-graph)
+
  
-    
-
-   
-
-      
 
 </body>
 
