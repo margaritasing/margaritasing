@@ -3,17 +3,16 @@
 
 <head>
     <h1> Hola Me Llaman Libia..! 👋 <h1>
-      <h1>  Estudiante de BackEnd en Ada Itw <h1>
-    <img src="https://media.giphy.com/media/YRzF6S3Ei0ys195ZSW/giphy.gif"> <br>
-      
-
+   
  </head>
 <body>
-  
-     
-[![Libia's github activity graph]( https://graficoactividad.herokuapp.com/graph?username=margaritasing&theme=dracula)](https://github.com/margaritasing/github-readme-activity-graph)
+
+
+[![Typing SVG](https://letrasmaquinas.herokuapp.com?font=roboto&color=8F2ACD&lines=Estudiante+de+Back+End+Con+Java+Y+Python)](https://git.io/typing-svg)
 
  
+[![Libia's github activity graph]( https://graficoactividad.herokuapp.com/graph?username=margaritasing&theme=dracula)](https://github.com/margaritasing/github-readme-activity-graph)
+
 
 </body>
 
