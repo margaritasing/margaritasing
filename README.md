@@ -8,7 +8,7 @@
 <body>
 
 
-[![Typing SVG](https://letrasmaquinas.herokuapp.com?font=roboto&color=8F2ACD&lines=Estudiante+de+Back+End+Con+Java+Y+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://letrasmaquinas.herokuapp.com?font=roboto&color=8F2ACD&lines=Estudiante+de+Back+End+Con+Java)](https://git.io/typing-svg)
 
  
 [![Libia's github activity graph]( https://graficoactividad.herokuapp.com/graph?username=margaritasing&theme=dracula)](https://github.com/margaritasing/github-readme-activity-graph)
