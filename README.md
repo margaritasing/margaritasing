@@ -11,7 +11,7 @@
     
     
  
- [![Typing SVG](https://letrasmaquinas.herokuapp.com?font=roboto&color=8F2ACD&lines=Estudiante+de+Back+End)](https://git.io/typing-svg)
+ [![Typing SVG](https://letrasmaquinas.herokuapp.com?font=roboto&color=8F2ACD&lines=Dev+Back+End)](https://git.io/typing-svg)
 
  # _Habilidades_   
     
