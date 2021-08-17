@@ -10,6 +10,10 @@
  # _Hola Me Llaman Libia..!_  👋
     
 ![Twitter Follow](https://img.shields.io/twitter/follow/LibiaMFM?color=1DA1F2&logo=Twitter&style=for-the-badge)
+    
+    
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" />
 
     
     
