@@ -2,16 +2,21 @@
 <html>
 
 <head>
-    <h1> <h1>
+    
    
  </head>
 <body>
     
  # _Hola Me Llaman Libia..!_  👋
     
+![Twitter Follow](https://img.shields.io/twitter/follow/LibiaMFM?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
+    
     
  
  [![Typing SVG](https://letrasmaquinas.herokuapp.com?font=roboto&color=8F2ACD&lines=Dev+Back+End)](https://git.io/typing-svg)
+    
+    
 
  # _Habilidades_   
     
@@ -44,21 +49,30 @@
  # _Most used languages, but not the only ones_
     
   
-  [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&layout=langs_count=8&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
+  [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&layout=langs_count=9&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
     
 
     
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-    </a>
-
-
-
+ <a href="https://github.com/margaritasing/Challenger_Disney">
+      <img align="center" src="https://github-readme-stats-ten-blush.vercel.app/api/pin/?username=margaritasing&repo=Challenger_Disney&theme=dracula" />
+</a>
+<a href="https://github.com/margaritasing/CRUDSpringBD">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=margaritasing&repo=CRUDSpringBD&theme=dracula" />
+</a>
+<a href="https://github.com/margaritasing/AplicacionAerolineaDjango">
+      <img align="center" src="https://github-readme-stats-ten-blush.vercel.app/api/pin/?username=margaritasing&repo=AplicacionAerolineaDjango&theme=dracula" />
+</a>
+    <a href="https://github.com/margaritasing/Python-con-React">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=margaritasing&repo=Python-con-React&theme=dracula" />
+</a>
+<a href="https://github.com/margaritasing/ApiProductoRoles">
+      <img align="center" src="https://github-readme-stats-ten-blush.vercel.app/api/pin/?username=margaritasing&repo=ApiProductoRoles&theme=dracula" />
+</a>
+ <a href="https://github.com/margaritasing/GaleriaDePeliculasOMDB">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=margaritasing&repo=GaleriaDePeliculasOMDB&theme=dracula" />
+</a>
     
-    
+  
  
 
 
@@ -70,6 +84,10 @@
 # _Gráfico de actividad_ 📈   
     
 [![Libia's github activity graph]( https://graficoactividad.herokuapp.com/graph?username=margaritasing&theme=dracula)](https://github.com/margaritasing/github-readme-activity-graph)
+    
+    
+    
+    
     
 
 
