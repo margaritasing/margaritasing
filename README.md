@@ -9,18 +9,18 @@
  <h1 align="center">Hi 👋, I'm Libia</h1>
 <h3 align="center">A passionate back end developer Venezuela</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
     
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/libiamfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="libiamfm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/libia-m-freites-m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/libia-m-freites-m/" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
       
  
     
-<h3 align="left">👩‍💻 Languages:</h3>
+<h3 align="left">👩‍💻 Languages</h3>
 
     
 | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" /> |   <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png" /> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />  |  <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" /> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" /> |
@@ -45,7 +45,8 @@
  
   ![Libia's GitHub stats](https://github-readme-stats-ten-blush.vercel.app/api?username=margaritasing&show_icons=true&theme=dracula)
     
- # _Most used languages, but not the only ones_
+   <h3 align="left">Most used languages, but not the only ones</h3>  
+   
     
   
   [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&layout=langs_count=9&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
