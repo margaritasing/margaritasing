@@ -9,34 +9,33 @@
     
  # _Hola Me Llaman Libia..!_  👋
     
-![Twitter Follow](https://img.shields.io/twitter/follow/LibiaMFM?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
+<a href="https://twitter.com/LibiaMFM">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+
+</a>
     
-    
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" />
+<a margin-left= 5px href="https://www.linkedin.com/in/libia-m-freites-m">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
     
     
+       
  
- [![Typing SVG](https://letrasmaquinas.herokuapp.com?font=roboto&color=8F2ACD&lines=Dev+Back+End)](https://git.io/typing-svg)
-    
     
 
- # _Habilidades_   
+👩‍💻 Languages
     
-| _Java_ |  Spring | Hibernate  |  JPA    |         Maven |     
-| ------------- | ------------- |  ------------- |  ------------- |  ------------- |            
-              
+| <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" /> |   <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png" /> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />  |  <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" /> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" /> |
+| ------------- | ------------- |  ------------- |  -----------------|  -----------------|
     
-|   _Python_   | Django | Flask |
-| ---------------- | ---------------- | ---------------- |
+             
+🚀 Frameworks    
+|  <img height="64" width="64" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/hibernate_logo_icon_169034.png" />  |<img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_maven_icon_130397.png" />   |  <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" />  | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/django_plain_logo_icon_146558.png" />  | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/512/PNG/128/prog-flask_icon-icons.com_50797.png" />  |
+| ------------- | ------------- |  ------------- |  ------------- | ---------------- | ---------------- |
 
-
-| _PHP_  |
-|---------------------|    
-    
-| _Javascript_ |  Html | Css |
-| -----------------|  -----------------|  -----------------|
+  
 
 <!--| Java | Web | Python | PHP |
 | ------------- | ------------- | ------------- | ------------- |
@@ -56,6 +55,7 @@
   [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&layout=langs_count=9&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
     
 
+ # _Some repositories_
     
  <a href="https://github.com/margaritasing/Challenger_Disney">
       <img align="center" src="https://github-readme-stats-ten-blush.vercel.app/api/pin/?username=margaritasing&repo=Challenger_Disney&theme=dracula" />
