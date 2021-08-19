@@ -7,7 +7,7 @@
  </head>
 <body>
  <h1 align="center">Hi 👋, I'm Libia</h1>
-<h3 align="center">A passionate back end developer Venezuela</h3>
+<h3 align="center">A passionate back end developer of Venezuela</h3>
 
 <h3 align="left">Connect with me</h3>
     
