@@ -64,7 +64,7 @@
 <a href="https://github.com/margaritasing/AplicacionAerolineaDjango">
       <img align="center" src="https://github-readme-stats-ten-blush.vercel.app/api/pin/?username=margaritasing&repo=AplicacionAerolineaDjango&theme=dracula" />
 </a>
-    <a href="https://github.com/margaritasing/Python-con-React">
+    <a href="https://github.com/margaritasing/A.Python-con-React">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=margaritasing&repo=Python-con-React&theme=dracula" />
 </a>
 <a href="https://github.com/margaritasing/ApiProductoRoles">
