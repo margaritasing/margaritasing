@@ -55,10 +55,10 @@
     
  <h3 align="left">Some repositories</h3>    
     
- <a href="https://github.com/margaritasing/Challenger_Disney">
+ <a href="https://github.com/margaritasing/a.Challenger_Disney">
       <img align="center" src="https://github-readme-stats-ten-blush.vercel.app/api/pin/?username=margaritasing&repo=Challenger_Disney&theme=dracula" />
 </a>
-<a href="https://github.com/margaritasing/CRUDSpringBD">
+<a href="https://github.com/margaritasing/A.CRUDSpringBD">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=margaritasing&repo=CRUDSpringBD&theme=dracula" />
 </a>
 <a href="https://github.com/margaritasing/AplicacionAerolineaDjango">
