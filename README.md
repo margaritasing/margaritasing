@@ -49,7 +49,7 @@
    
     
   
-  [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
+  [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&layout=langs_count=9&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
     
 
     
