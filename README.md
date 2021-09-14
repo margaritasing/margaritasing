@@ -39,7 +39,6 @@
 | Hibernate  | Html  |    
 | JPA       | Css  |-->
     
-<!--   [![Libia's GitHub stats](https://github-readme-stats.vercel.app/api?username=margaritasing)](https://github-readme-stats-ten-blush.vercel.app)-->
 
  <h3 align="left">Activities</h3>    
     
