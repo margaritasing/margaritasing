@@ -20,13 +20,13 @@
       
  
     
-<h3 align="left">👩‍💻 Languages</h3>
+<h3>👩‍💻 Languages</h3>
 
     
 | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" /> |   <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png" /> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />  |  <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" /> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" /> |
 | ------------- | ------------- |  ------------- |  -----------------|  -----------------|
     
-<h3 align="left">🚀 Frameworks </h3>            
+<h3>🚀 Frameworks </h3>            
    
 |  <img height="64" width="64" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/hibernate_logo_icon_169034.png" />  |<img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_maven_icon_130397.png" />   |  <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" />  | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/django_plain_logo_icon_146558.png" />  | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/512/PNG/128/prog-flask_icon-icons.com_50797.png" />  |
 | ------------- | ------------- |  ------------- |  ------------- | ---------------- | ---------------- |
@@ -42,15 +42,19 @@
 <!--   [![Libia's GitHub stats](https://github-readme-stats.vercel.app/api?username=margaritasing)](https://github-readme-stats-ten-blush.vercel.app)-->
 
  <h3 align="left">Activities</h3>    
+    
  
   ![Libia's GitHub stats](https://github-readme-stats-ten-blush.vercel.app/api?username=margaritasing&show_icons=true&theme=dracula)
     
-   <h3 align="left">Most used languages, but not the only ones</h3>  
    
-    
+       
+  <h3 align="rigth">Most used languages, but not the only ones</h3>  
+      
   
   [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&layout=langs_count=9&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
     
+       
+  
 
     
  <h3 align="left">Some repositories</h3>    
