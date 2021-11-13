@@ -23,6 +23,8 @@
     
 <h3>👩‍💻 Languages</h3>
 <hr />
+    
+    https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
 
     
 | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" /> |   <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png" /> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" />  |  <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" /> | <img height="64" width="64" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_css_icon_130661.png" /> |
