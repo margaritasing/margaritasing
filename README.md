@@ -126,6 +126,8 @@
 [![Libia's github activity graph]( https://graficoactividad.herokuapp.com/graph?username=margaritasing&theme=dracula)](https://github.com/margaritasing/github-readme-activity-graph)
     
     
+<hr />
+    
 ![Libia's](https://github-profile-trophy.vercel.app/?username=margaritasing&langs_count=6&theme=dracula&align="center")
     
     
