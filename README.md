@@ -15,6 +15,9 @@
 <a href="https://twitter.com/libiamfm" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="libiamfm"/></a>
 <a href="https://linkedin.com/in/libia-m-freites-m/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
+    
+![Libia's](https://github-profile-trophy.vercel.app/?username=margaritasing&langs_count=6&theme=dracula&align="center")
+    
 
 <h2 align="left">Languages and Tools</h2>
 
@@ -123,6 +126,9 @@
 [![Libia's github activity graph]( https://graficoactividad.herokuapp.com/graph?username=margaritasing&theme=dracula)](https://github.com/margaritasing/github-readme-activity-graph)
     
     
+    
+   
+
     
     
     
