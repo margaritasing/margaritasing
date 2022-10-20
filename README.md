@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    
+
    
  </head>
 <body>
@@ -40,7 +40,9 @@
     
     
     
- <h3 align="left">Activities</h3>
+  <div align="justify">
+        
+  <h3>Activities</h3>
  <hr />
     
  ![Libia's GitHub stats](https://github-readme-stats-ten-blush.vercel.app/api?username=margaritasing&show_icons=true&theme=dracula)
@@ -48,23 +50,24 @@
     
  
     
- <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}"/>
+
    
     
     
-
-
-
-    
- 
    
        
-  <h3 align="rigth">Most used languages</h3> 
+  <h3>Most used languages</h3> 
   <hr />
  
     
- [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&langs_count=9&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
+ [![Top Langs](https://github-readme-stats-ten-blush.vercel.app/api/top-langs/?username=margaritasing&langs_count=6&theme=dracula)](https://github-readme-stats-ten-blush.vercel.app)
 
+    
+    
+    
+</div>
+    
+    
 
 
 
@@ -112,7 +115,7 @@
     
 <hr />
     
-![Libia's](https://github-profile-trophy.vercel.app/?username=margaritasing&langs_count=6&theme=dracula&align="center")
+
     
     
     
