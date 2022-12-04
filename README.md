@@ -99,29 +99,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=margaritasing&repo=GaleriaDePeliculasOMDB&theme=dracula" />
 </a>
     
-  
- 
-
-
-
- <h3 align="left">Gráfico de actividad 📈</h3> 
- <hr />
-
- 
-    
-    
-[![Libia's github activity graph]( https://graficoactividad.herokuapp.com/graph?username=margaritasing&theme=dracula)](https://github.com/margaritasing/github-readme-activity-graph)
-    
-    
-<hr />
-    
-
-    
-    
-    
-   
-
-    
     
     
 
